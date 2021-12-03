@@ -1,2 +1,2 @@
-# ptvs
-Landing Page dla Polskiej Telewizji Społecznej
+# pstv
+ Website design of Polish Social Television 
