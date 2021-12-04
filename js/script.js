@@ -17,7 +17,6 @@ if (session == 0) {
   loading.style.position = "absolute";
   circle.innerHTML = "<h1>PTVS</h1>";
   circle.style.fontFamily = "var(--font)";
-  circle.style.fontSize = "8vh";
   circle.id = "circle";
   circle.style.backgroundColor = "var(--color_pink)";
   circle.style.borderRadius = "100vw";
